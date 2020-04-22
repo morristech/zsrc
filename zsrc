@@ -1,5 +1,12 @@
 #!/usr/bin/env gosh
 
-(use gauche.process)
+(use gauche.parseopt)
 
-(do-process '(ls -al))
+(define (main args)
+  (let ((sub-cmd (cadr args)))
+    (let-args (cddr args)
+              ((srcfile "f|file=s")
+               . restargs)
+              (print " sub-cmd: " sub-cmd)
+              (print " srcfile: " srcfile)
+              (print "restargs: " restargs))))
