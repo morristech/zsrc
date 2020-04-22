@@ -1,0 +1,55 @@
+minetest  https://github.com/minetest/minetest.git               master
+
+serenity  https://github.com/SerenityOS/serenity.git             master
+
+fluxbox   https://github.com/fluxbox/fluxbox.git                 master
+
+love2d    https://github.com/love2d/love.git                     master
+
+
+
+gcc       https://gcc.gnu.org/git/gcc.git                        gcc-9.3.0
+
+clang     https://github.com/llvm/llvm-project.git               llvmorg-10.0.0
+
+gauche    https://github.com/shirok/Gauche.git                   release0_9_9
+
+chez      https://github.com/cisco/ChezScheme.git                v9.5.2
+
+guile     https://git.sv.gnu.org/git/guile.git                   v3.0.2
+
+sbcl      https://git.code.sf.net/p/sbcl/sbcl.git                sbcl-2.0.3
+
+go        https://go.googlesource.com/go.git                     go1.14.2
+
+ruby      https://github.com/ruby/ruby.git                       v2_7_1
+
+erlang    https://github.com/erlang/otp.git                      OTP-22.3.2
+
+elixir    https://github.com/elixir-lang/elixir.git              v1.10.2
+
+lfe       https://github.com/rvirding/lfe.git                    develop
+
+lua       https://www.lua.org/ftp/lua-5.3.5.tar.gz               112eb10ff04d1b4c9898e121d6bdf54a81482447
+
+fennel    https://github.com/bakpakin/Fennel.git                 0.3.2
+
+
+
+ncurses   https://github.com/ThomasDickey/ncurses-snapshots.git  v6_2_20200418
+
+xterm     https://github.com/ThomasDickey/xterm-snapshots.git    xterm-353i
+
+tmux      https://github.com/tmux/tmux.git                       3.1
+
+emacs     https://git.savannah.gnu.org/git/emacs.git             emacs-26.3
+
+neovim    https://github.com/neovim/neovim.git                   v0.4.3
+
+
+
+xrandr    https://gitlab.freedesktop.org/xorg/app/xrandr.git     xrandr-1.5.1
+
+ibmfonts  https://github.com/farsil/ibmfonts.git                 4d70c26ad41ab75dab4bb5cb7b4a521e1159473a
+
+ansiterm  https://github.com/jcs/ansiterm.git                    cb727f708628a878569ebe6389cf525c6ccfe179

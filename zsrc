@@ -1,0 +1,5 @@
+#!/usr/bin/env gosh
+
+(use gauche.process)
+
+(do-process '(ls -al))
